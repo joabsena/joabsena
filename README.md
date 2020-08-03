@@ -28,7 +28,8 @@ Would you like to find me?
 -->
 
 - 🔭 Atualmente estou trabalhando na W3 Solutions ...
-- 🌱 Atualmente estou aprendendo NodeJs, React e React Native ...<br>
+- ⚡ Books Atualmente estou estudando fortemente JavaScript
+- 📫 Meta: Entrar no mercado como Dev Junior e subir para próximo nivel. <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joab-sena/)](https://www.linkedin.com/in/joab-sena/)
 
 
