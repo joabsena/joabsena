@@ -1,35 +1,31 @@
-### Olá 👋
+<p align="center">
+    <!-- Badge - GitHub -->
+  <a href="https://github.com/joabsena">
+    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joabsena">
+  </a>
 
-<!--
-**joabsena/joabsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Badge - LinkedIn -->
+  <a href="https://www.linkedin.com/in/joab-sena/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joab-sena/">
+  </a>
 
-- 👯 Estou procurando colaborar ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <!-- Badge - Gmail -->
+  <a href="mailto:joabarbosa1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joabarbosa1@hotmail.com">
+  </a> 
 
-### Hi there! 😁
+  <!-- Badge - Twitter -->
+  <a href="https://twitter.com/joabarbosa98">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joabarbosa98">
+  </a>
+</p>
 
-My name is Felipe Fialho from Brazil (🇧🇷). I've been working as Front-End Developer since 2009 and currently I'm Tech Lead at [Juntos Somos Mais](https://juntossomosmais.com.br). I'm passionate about open source projects, so I've created some projects as [Front-end BR](https://github.com/frontendbr) and I've always loved to produce a lot of content during my career.
+<!-- Apresentação -->
+## Eai, belezinha ? 🤜🏼🤛🏼
 
-In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) and eventually I like to philosophize about life with a beer (🍺).
+Meu nome é Joab Sena, sou apaixonado por Programação! 
 
-Would you like to find me?
+- 💼 Atualmente trabalho como **Freelancer FrontEnd** na empresa [W3 Solutions](https://w3solutions.com.br/)
 
-[![Blog Badge](https://img.shields.io/badge/Blog-felipefialho.com-black)](https://felipefialho.com/blog)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://youtube.com/c/FelipeFialhoDev)](https://youtube.com/c/FelipeFialhoDev)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipefialho_)](https://twitter.com/felipefialho_)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipefialho)](https://www.linkedin.com/in/felipefialho)
-
-
-
--->
-
-- 🔭 Atualmente estou trabalhando na W3 Solutions ...
-- ⚡ Books Atualmente estou estudando fortemente JavaScript
-- 📫 Meta: Entrar no mercado como Dev Junior e subir para próximo nivel. <br><br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joab-sena/)](https://www.linkedin.com/in/joab-sena/)
-
-
+- 📚 Atualmente estou estudando fortemente **JavaScript**
+- 📌 Meta: Entrar no mercado como **Desenvolvedor Junior** e subir para próximo nivel.
