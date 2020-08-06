@@ -21,7 +21,7 @@
 </p>
 
 <!-- Apresentação -->
-## Eai, belezinha ? 🤜🏼🤛🏼
+## Eai, belezinha ?
 
 Meu nome é Joab Sena, sou apaixonado por Programação! 
 
