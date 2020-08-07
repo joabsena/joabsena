@@ -25,7 +25,6 @@
 
 Meu nome é Joab Sena, sou apaixonado por Programação! 
 
-- 💼 Atualmente trabalho como **Freelancer FrontEnd** na empresa [W3 Solutions](https://w3solutions.com.br/)
-
-- 📚 Atualmente estou estudando **JavaScript**
+- 💼 Atualmente trabalho como **FrontEnd** na empresa [W3 Solutions](https://w3solutions.com.br/)
+- 📚 Atualmente estou estudando **HTML, CSS, JavaScript**
 - 📌 Meta: Entrar no mercado como **Desenvolvedor Junior** e subir para próximo nivel.
