@@ -1,6 +1,4 @@
 <p align="center">
-    ![joab](https://user-images.githubusercontent.com/54381970/90580067-55df4780-e19e-11ea-81ae-685f44abf008.png)
-
     <!-- Badge - GitHub -->
   <a href="https://github.com/joabsena">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joabsena">
