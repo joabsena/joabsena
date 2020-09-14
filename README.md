@@ -1,11 +1,5 @@
 
 <p align="center">
-  <a href="">
-    <img src="https://user-images.githubusercontent.com/54381970/90646607-c70a1380-e20d-11ea-8d94-b311f12b4e91.gif" width="250">
-  </a>
-</p>
-
-<p align="center">
     <!-- Badge - GitHub -->
   <a href="https://github.com/joabsena">
     <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joabsena">
