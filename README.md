@@ -27,5 +27,5 @@
 Meu nome é Joab Sena, sou apaixonado por Programação! 
 
 - 💼 Atualmente trabalho como **T.I** na empresa [INJETEC]
-- 📚 Atualmente estou estudando **ReactJs e React Native**
+- 📚 Atualmente estou estudando **JavaScript e ReactJs**
 - 📌 Meta: Entrar no mercado como **Desenvolvedor FrontEnd Junior** e subir para próximo nivel.
