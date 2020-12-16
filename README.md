@@ -26,6 +26,6 @@
 
 Meu nome é Joab Sena, sou apaixonado por Programação! 
 
-- 💼 Atualmente trabalho como **Desenvolvedor FrontEnd Junior** na empresa [RKF DESENVOLVIMENTO DE SOFTWARE]
+- 💼 Atualmente trabalho como **Desenvolvedor FrontEnd Junior** na empresa **RKF DESENVOLVIMENTO DE SOFTWARE**
 - 📚 Atualmente estou estudando **TypeScript e ReactJs**
 - 📌 Meta: Avançar no mercado como **Desenvolvedor FrontEnd Pleno** e subir para próximo nivel.
