@@ -1,30 +1,20 @@
+# Eai, belezinha?
 
-<p align="center">
-    <!-- Badge - GitHub -->
-  <a href="https://github.com/joabsena">
-    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joabsena">
-  </a>
 
-  <!-- Badge - LinkedIn -->
-  <a href="https://www.linkedin.com/in/joab-sena/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joab-sena/">
-  </a>
+### ✍️ Sobre Mim
 
-  <!-- Badge - Gmail -->
-  <a href="mailto:joabarbosa1@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joabarbosa1@hotmail.com">
-  </a> 
+📚 Atualmente cursando ciência da computação <br>
+💬 Qualquer ajuda ou dica é sempre bem-vinda! <br>
+👩‍💻 Desenvolvedor FrontEnd <br>
 
-  <!-- Badge - Twitter -->
-  <a href="https://twitter.com/joabarbosa98">
-    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/joabarbosa98">
-  </a>
-</p>
 
-<!-- Apresentação -->
-## Eai, belezinha ?
+### 📬 Contato
 
-Meu nome é Joab Sena, sou apaixonado por Programação! 
+GitHub: https://github.com/joabsena<br>
+LinkedIn: https://www.linkedin.com/in/joab-sena/ <br>
+Email: <a href="mailto:joabarbosa1@hotmail.com">joabarbosa1@hotmail.com</a>
 
-- 💼 Atualmente trabalho como **Desenvolvedor FrontEnd** na empresa **RKF DESENVOLVIMENTO DE SOFTWARE**
-- 📚 Atualmente estou estudando **TDD, NextJS e NodeJs**
+
+### <b>:brain: &nbsp;Focado em</b></summary><br/>
+<p align="left"> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="css3" width="40" height="40"/> </a></p>
+<br>
