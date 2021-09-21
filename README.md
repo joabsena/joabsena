@@ -5,7 +5,7 @@
 
 📚 Atualmente cursando ciência da computação <br>
 💬 Qualquer ajuda ou dica é sempre bem-vinda! <br>
-👩‍💻 Desenvolvedor FrontEnd <br>
+👩‍💻 Desenvolvedor FrontEnd Pleno <br>
 
 
 ### 📬 Contato
