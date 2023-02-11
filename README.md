@@ -10,7 +10,6 @@
 
 ### 📬 Contato
 
-GitHub: https://github.com/joabsena<br>
 LinkedIn: https://www.linkedin.com/in/joab-sena/ <br>
 Email: <a href="mailto:joabarbosa1@hotmail.com">joabarbosa1@hotmail.com</a>
 
